@@ -1,4 +1,4 @@
-package microservices.userservice.model;
+package microservices.orderservice.model;
 
 public class User {
     private int id;

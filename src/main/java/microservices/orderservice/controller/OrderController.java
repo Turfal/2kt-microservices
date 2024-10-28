@@ -1,7 +1,7 @@
 package microservices.orderservice.controller;
 
 import microservices.orderservice.model.Order;
-import microservices.userservice.model.User;
+import microservices.orderservice.model.User;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.RestTemplate;
 
